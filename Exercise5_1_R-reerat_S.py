@@ -1,0 +1,11 @@
+num1 = int(input("Plase enter number :"))
+num2 = int(input("Plase enter number :"))
+num3 = int(num1) + int(num2)
+num4 = int(num1) - int(num2)
+num5 = int(num1) * int(num2)
+num6 = int(num1) / int(num2)
+
+print("Answer\n",num1,"+",num2,"=",num3)
+print(num1,"-",num2,"=",num4)
+print(num1,"*",num2,"=",num5)
+print(num1,"/",num2,"=",num6)
